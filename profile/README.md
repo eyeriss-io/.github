@@ -13,13 +13,13 @@
 
 Eyeriss is the API Gateway of the future.
 
-With automated onboarding of endpoints, our API Gateway platform allows Dev, Sec, and Ops to advance together towards a much stronger security posture.
+With automated onboarding of endpoints and strict Zero Trust modeling, our API Gateway platform allows Dev, Sec, and Ops to advance together towards a much stronger security posture.
 
 We have several offerings to ensure your API endpoints remain protected from threats and misuse:
 
-- [Eyeriss SaaS API Gateway](https://www.eyeriss.io/saas-platform) <br> Eyeriss provides API Gateway services for all your endpoints and services all while ...
+- [Eyeriss SaaS API Gateway](https://www.eyeriss.io/saas-platform) <br> Eyeriss provides API Gateway services for all your endpoints and services while alleviating infrastructure management overhead for your engineering teams.
 
-- [Eyeriss On-Prem API Gateway](https://www.eyeriss.io/on-prem-platform) <br> Keep your environment as secure as possible with the on-prem offering of Eyeriss all while still leveraging the ability to ...
+- [Eyeriss On-Prem API Gateway](https://www.eyeriss.io/on-prem-platform) <br> Keep your environment as secure as possible with the on-prem offering of Eyeriss all while still leveraging the ability to scale at large to protect even the largest of environments.
 
 ## Repos :bookmark_tabs:
 
