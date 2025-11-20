@@ -9,7 +9,7 @@
   <hr />
 </div>
 
-## Hello! :wave: 
+## Hello!
 
 Eyeriss is the API Gateway of the future.
 
@@ -17,17 +17,17 @@ With automated onboarding of endpoints and strict Zero Trust modeling, our API G
 
 We have several offerings to ensure your API endpoints remain protected from threats and misuse:
 
-- [Eyeriss SaaS API Gateway](https://www.eyeriss.io/saas-platform) <br> Eyeriss provides API Gateway services for all your endpoints and services while alleviating infrastructure management overhead for your engineering teams.
+- [Eyeriss Community API Gateway](https://www.eyeriss.io/community-platform) <br> Eyeriss povides a community version of its API Gateway because API security shouldn't just be for large enterprises.  The community offering is available with both free and paid subscriptions.
 
-- [Eyeriss On-Prem API Gateway](https://www.eyeriss.io/on-prem-platform) <br> Keep your environment as secure as possible with the on-prem offering of Eyeriss all while still leveraging the ability to scale at large to protect even the largest of environments.
+- [Eyeriss Enterprise API Gateway](https://www.eyeriss.io/enterprise-platform) <br> Keep your enterprise environment as secure as possible with the on-prem offering of Eyeriss or take advantage of the endless scaling potential of the cloud.  Learn more about our enterprise API Gateway offerings today to keep your company safe and secure!
 
-## Repos :bookmark_tabs:
+## Repos
 
 In addition to our primary platform offerings, Eyeriss is also proud to offer several open source tools found in this GitHub org.  Be sure to check them out!
 
 
-## Stay in touch :email:
+## Stay in touch
 
 - [Follow us on LinkedIn](https://www.linkedin.com/company/eyeriss-io) to connect to the Eyeriss team!
 
-- [Drop us a line](https://www.eyeriss.io/contact-us). Got a question? The team is glad to get you an answer!  Don't be shy and tell us what is on your mind. 
+- [Drop us a message](https://www.eyeriss.io/contact-us). Got a question? The team is glad to get you an answer!  Don't be shy and tell us what is on your mind. 
